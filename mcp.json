@@ -1,1 +1,12 @@
 
+// Write this code to get real-time train details
+
+{
+  "mcpServers": {
+    "Indian Railway": {
+      "url": "https://railway-mcp.amithv.xyz/mcp"
+    },
+  }
+}
+
+// after writing this code all the tools will be added.
