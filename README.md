@@ -19,7 +19,7 @@ An AI agent that provides real-time Indian Railways data such as:
 - User enters a natural language query like:  
   *"When does train 12951 reach Mumbai?"*
 - Cursor AI processes the input and sends a request via Pipedream to Indian Railways APIs.
-- The API response is parsed and returned in a human-friendly format.
+-  Real-time data from Indian Railways API is fetched and formatted.
 
 💡 **Tech Used**:
 - Cursor AI (Prompt logic, NLP handling)
