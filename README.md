@@ -1,12 +1,12 @@
 # indian-railways-agent
 
-# 🤖 AI Agents using Cursor AI + Pipedream
+#  AI Agents using Cursor AI + Pipedream
 
 This repository contains two AI agents built using [Cursor AI](https://www.cursor.so/) and [Pipedream](https://pipedream.com/) that demonstrate real-world automation using natural language processing and API integration.
 
 ---
 
-## 🚀 Projects Overview
+##  Projects Overview
 
 ### 1. Indian Railways Info Agent
 An AI agent that provides real-time Indian Railways data such as:
